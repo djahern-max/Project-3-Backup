@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://Dane:Dane123@cluster0-vt5vn.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "468d5c59cb71c751df53",
+    "githubSecret": "2b3533f3e37469286b28d6b63408031443c3d2cc"
+}
